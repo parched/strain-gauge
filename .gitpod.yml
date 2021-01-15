@@ -1,4 +1,5 @@
-image: cirrusci/flutter
+image:
+  file: Dockerfile
 
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
